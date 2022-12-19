@@ -1,0 +1,20 @@
+@import "fonts.css";
+
+  #sectionList table {
+    width: 100%;
+    border-collapse: collapse;
+    text-align: center;
+    
+    box-shadow: 0px 0px 4px black;
+  }
+  
+  #sectionList table, td, th {
+    padding: 5px;
+  }
+  
+  #sectionList th {
+    border: none;
+    background-color: #395c58;
+    padding: 10px;
+    color: white;
+    text-align: center;}

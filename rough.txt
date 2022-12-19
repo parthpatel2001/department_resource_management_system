@@ -1,0 +1,4 @@
+name : sectionNameModal
+role : resourceCategoryModal
+email : sectionCapacityModal
+pass : password
