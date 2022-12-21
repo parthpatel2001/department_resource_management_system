@@ -21,6 +21,13 @@ User can generate reports and save them.
 
 ## Technology and languages:
 
-   Front end : HTML, CSS, JS. Bootstraps  
+   Front end : HTML, CSS, JS. Bootstraps, Google API chart  
    Back end : PHP, MYSQL(For database)
+   
+## Snapshots
+### Login Page
+![image](https://user-images.githubusercontent.com/95071827/208914209-0d8ceef0-2323-4fce-ba8d-e761e16b99a9.png)
+
+###
+   
    
