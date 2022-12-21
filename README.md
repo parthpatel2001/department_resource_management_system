@@ -2,7 +2,7 @@
 
 # Project description: 
  This  system is implemented to reduce the manual work and enhances the accuracy of work in a department. In this system admin can manage all sections, categories,
- resource. In this system you  can see all information in graphical form like pie chart, bar chart. Admin can access website from mobile, tablet, and desktop/laptop. 
+ resource. In this system you  can see all information in graphical form like pie chart, bar chart. Admin can access website from mobile, tablet, and desktop/laptop.   
  This website is fully responsive and user friendly.
 
 # Functionality:
