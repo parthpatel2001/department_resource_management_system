@@ -34,37 +34,37 @@ User can generate reports and save them.
 ![Screenshot (55)](https://user-images.githubusercontent.com/95071827/208917103-762a55c8-a8e8-4bd6-8352-fd58ab54ea5b.png)
 
 ### Add Department
-![Screenshot (35)](https://user-images.githubusercontent.com/95071827/208914994-c26250f1-a6c4-41cd-b9a4-5b8dc366cef5.png)
+![Screenshot (56)](https://user-images.githubusercontent.com/95071827/208917490-b49fa000-66f7-464a-a396-12dde277bf61.png)
 
 ### Update Department
-![Screenshot (36)](https://user-images.githubusercontent.com/95071827/208915312-905830ad-5fc4-47f5-9ccc-faea6853143f.png)
+![Screenshot (57)](https://user-images.githubusercontent.com/95071827/208917555-d0832fe4-50fb-420d-a2d3-1647d7ef0b92.png)
 
 ### Delete Department
-![Screenshot (37)](https://user-images.githubusercontent.com/95071827/208915473-f04d0171-bef8-4cee-91d8-70d5eb48e6a8.png)
+![Screenshot (58)](https://user-images.githubusercontent.com/95071827/208917587-320eb1fa-86cb-4f1f-8b93-668a61fbf7e5.png)
 
 ### Manage Section
-![Screenshot (38)](https://user-images.githubusercontent.com/95071827/208915951-a1479979-d22b-48ff-b16d-0e09972f7425.png)
+![Screenshot (59)](https://user-images.githubusercontent.com/95071827/208917738-118a0401-bcfc-465e-b5e3-91409c7fa4fd.png)
 
 ### Add Section
-![Screenshot (39)](https://user-images.githubusercontent.com/95071827/208916009-0d2a1206-730b-4751-97f2-28d0c576ae16.png)
+![Screenshot (60)](https://user-images.githubusercontent.com/95071827/208917803-3909c5fa-a6bf-466d-862a-58684b23f664.png)
 
 ### Manage Category
-![Screenshot (41)](https://user-images.githubusercontent.com/95071827/208916061-f258a29c-f4c8-4178-a850-408041785dfd.png)
+![Screenshot (61)](https://user-images.githubusercontent.com/95071827/208918049-0b147c5a-a941-4ecf-86b9-a9762cc52f8b.png)
 
 ### Add Category
-![Screenshot (42)](https://user-images.githubusercontent.com/95071827/208916120-451ec6ad-fc9b-449d-8346-1138dc6c8969.png)
+![Screenshot (62)](https://user-images.githubusercontent.com/95071827/208918090-d2edb491-3ac7-4686-b8ff-27e06ab527d2.png)
 
 ### Manage Resources
-![Screenshot (44)](https://user-images.githubusercontent.com/95071827/208916180-fcb708e4-25d7-4831-9b17-3341530c3c99.png)
+![Screenshot (63)](https://user-images.githubusercontent.com/95071827/208918361-7c787708-b064-4b32-b28b-3a6527f36db3.png)
 
 ### Add Resources
-![Screenshot (45)](https://user-images.githubusercontent.com/95071827/208916225-062f584f-0e35-4696-9d22-e0df52293454.png)
+![Screenshot (64)](https://user-images.githubusercontent.com/95071827/208918391-ac1ba6a2-911b-496d-9eb6-06a399f84597.png)
 
 ### Transfer Resources
-![Screenshot (46)](https://user-images.githubusercontent.com/95071827/208916258-dbbe89c8-c4d7-4308-aaf9-44d78d0adc9e.png)
+![Screenshot (65)](https://user-images.githubusercontent.com/95071827/208918423-7a1b6b2f-3a91-4b38-b510-b1b9c2656a9d.png)
 
 ### Replace Resources
-![Screenshot (47)](https://user-images.githubusercontent.com/95071827/208916290-66639b8b-9329-4c50-8805-257066929664.png)
+![Screenshot (66)](https://user-images.githubusercontent.com/95071827/208918468-74de0c95-ca88-4fd9-818f-a1234e78addf.png)
 
 ### Manage User
 ![Screenshot (49)](https://user-images.githubusercontent.com/95071827/208916317-9e1eb192-2829-48e6-a3c3-27959480bc2b.png)
