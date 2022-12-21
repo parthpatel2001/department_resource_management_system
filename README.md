@@ -1,4 +1,4 @@
-# Project Title: Department Resource Management System 
+# Department Resource Management System 
 
 ## Project description: 
  This  system is implemented to reduce the manual work and enhances the accuracy of work in a department. In this system admin can manage all sections, categories,
