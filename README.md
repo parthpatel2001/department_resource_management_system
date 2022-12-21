@@ -15,6 +15,9 @@ Admin can add/update/delete Categories.
 Admin can add/update/delete Resources.  
 Admin can transfer/replace Resources.  
 Admin can generate reports and save them.  
+User also can login using a email& Password.  
+User see all resource, section and resource.  
+User can generate reports and save them.  
 
 ## Technology and languages:
 
