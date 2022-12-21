@@ -18,6 +18,6 @@ Admin can generate reports and save them.
 
 # Technology and languages:
 
-   Front end : HTML, CSS, JS. Bootstraps
+   Front end : HTML, CSS, JS. Bootstraps  
    Back end : PHP, MYSQL(For database)
    
