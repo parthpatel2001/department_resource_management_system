@@ -28,10 +28,10 @@ User can generate reports and save them.
 ![image](https://user-images.githubusercontent.com/95071827/208914685-8f66db05-b78b-4727-8d59-e390e67888d7.png)
 
 ### Dashboard
-![Screenshot (52)](https://user-images.githubusercontent.com/95071827/208914501-605cd260-2a10-470b-91cd-d1904d3ae5d4.png)
+![Screenshot (54)](https://user-images.githubusercontent.com/95071827/208917135-31567bfe-b6b5-41f2-9ca8-fd354b0bb791.png)
 
 ### Manage Department  
-![Screenshot (53)](https://user-images.githubusercontent.com/95071827/208914851-44f64bd1-ab6b-4ff5-b8dd-0d15729284ef.png)
+![Screenshot (55)](https://user-images.githubusercontent.com/95071827/208917103-762a55c8-a8e8-4bd6-8352-fd58ab54ea5b.png)
 
 ### Add Department
 ![Screenshot (35)](https://user-images.githubusercontent.com/95071827/208914994-c26250f1-a6c4-41cd-b9a4-5b8dc366cef5.png)
