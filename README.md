@@ -67,9 +67,10 @@ User can generate reports and save them.
 ![Screenshot (66)](https://user-images.githubusercontent.com/95071827/208918468-74de0c95-ca88-4fd9-818f-a1234e78addf.png)
 
 ### Manage User
-![Screenshot (49)](https://user-images.githubusercontent.com/95071827/208916317-9e1eb192-2829-48e6-a3c3-27959480bc2b.png)
+![Screenshot (67)](https://user-images.githubusercontent.com/95071827/209057855-f3a6188f-1b0a-4576-befe-4f4e278539d3.png)
 
 ### Add User
-![Screenshot (50)](https://user-images.githubusercontent.com/95071827/208916345-61086de0-aad3-496e-8eb5-3e2e82221c2b.png)
+![Screenshot (68)](https://user-images.githubusercontent.com/95071827/209057883-58d221d0-8f7d-406e-9389-089ad491eb89.png)
+
 
 
